@@ -1,0 +1,34 @@
+{
+	"origin.t_fairy.traveling_fairy.name": "Traveling Fairy",
+	"origin.t_fairy.traveling_fairy.description": "This fairy doesn't have to look for her brother (or sister), but she still loves to travel.",
+	
+	"power.t_fairy.air_miner.name": "Air miner",
+	"power.t_fairy.air_miner.description": "You break blocks in the air at the same speed as on the ground.",
+	
+	"power.t_fairy.dash.name": "Dash",
+	"power.t_fairy.dash.description": "Yes, you cannot use fireworks. But who said you can't add a little magic? (This power from Origins++)",
+  
+	"power.t_fairy.fireworks.name": "Tinkaboom!",
+	"power.t_fairy.fireworks.description": "Trying to use fireworks will immediately blow you up as you are too small to use them. (Power from Adapted Origins)",
+	
+	"power.t_fairy.flying_toggle.name": "Like a Bird",
+	"power.t_fairy.flying_toggle.description": "Your wings allow you to fly, gradually draining your hunger bar. The ability can be turned off if it interferes with the use of Elytra.",
+	
+	"power.t_fairy.glow.name": "Hey, Listen!",
+	"power.t_fairy.glow.description": "You can toggle the glow effect on yourself. (Power from Adapted Origins)",
+	
+	"power.t_fairy.leather.name": "Too heavy...",
+	"power.t_fairy.leather.description": "You cannot wear armor that is stronger than leather.",
+	
+	"power.t_fairy.less_dmg.name": "Peaceful",
+	"power.t_fairy.less_dmg.description": "It is extremely difficult for you to injure any mob and you will deal 4 times less damage.",
+	
+	"power.t_fairy.low_hp.name": "Poor health",
+	"power.t_fairy.low_hp.description": "You have only 3 hearts.",
+  
+	"power.t_fairy.magical_agility.name": "Magical Agility",
+	"power.t_fairy.magical_agility.description": "You will never take damage from falling or landing poorly.",
+	
+	"power.t_fairy.tiny.name": "Tiny",
+	"power.t_fairy.tiny.description": "You can walk under a half block without crouching."
+}

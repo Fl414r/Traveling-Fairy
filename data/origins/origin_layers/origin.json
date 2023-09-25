@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "enabled": true,
+    "origins": [
+      "t_fairy:traveling_fairy"
+    ]
+  }

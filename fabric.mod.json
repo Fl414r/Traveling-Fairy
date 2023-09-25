@@ -1,0 +1,19 @@
+{
+	"schemaVersion":1,
+	"id":"traveling_fairy",
+	"name":"Traveling Fairy",
+	"version":"1",
+	"description":"This fairy doesn't have to look for her brother (or sister), but she still loves to travel.",
+	"license":"MIT",
+	"authors":[
+		"Fl414r"
+	],
+	"contributors":[
+		"Fl414r"
+	],
+	"depends":{
+		"minecraft":"*",
+		"origins":"*",
+		"pehkui":"*"
+	}
+}

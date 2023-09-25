@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"origins:elytra",
+		"t_fairy:fireworks",
+		"t_fairy:dash",
+		"t_fairy:flying",
+		"t_fairy:flying_toggle",
+		"t_fairy:glow",
+		"t_fairy:air_miner",
+		"t_fairy:magical_agility",
+		"t_fairy:tiny",
+		"t_fairy:leather",
+		"t_fairy:low_hp",
+		"t_fairy:aqua_outline",
+		"t_fairy:less_dmg",
+		"t_fairy:less_range_dmg",
+		"origins:vegetarian"
+	],
+	"icon": "minecraft:feather",
+	"order": 10,
+	"impact": 3
+}
