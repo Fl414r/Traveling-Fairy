@@ -1,0 +1,34 @@
+{
+	"origin.fairy.traveling_fairy.name": "Путешествующая фея",
+	"origin.fairy.traveling_fairy.description": "Этой фее не надо искать своего братика (или сестрёнку), но она всё равно любит путешествовать.",
+	
+	"power.fairy.air_miner.name": "Воздушный копатель",
+	"power.fairy.air_miner.description": "Вы ломаете блоки в воздухе с такой же скоростью, как на земле.",
+	
+	"power.fairy.dash.name": "Рывок",
+	"power.fairy.dash.description": "Да, вы не можете использовать фейерверки. Но кто сказал, что нельзя добавить немного магии? (Способность взята из Origins++).",
+	
+	"power.fairy.fireworks.name": "Тинкабум!",
+	"power.fairy.fireworks.description": "Попытка использовать фейерверк сразу взорвёт вас, так как вы слишком малы, чтобы использовать их (Способность из Adapted Origins).",
+	
+	"power.fairy.flying_toggle.name": "Как птица",
+	"power.fairy.flying_toggle.description": "Ваши крылья позволяют вам летать, понемногу тратя шкалу голода. Способность можно выключить, если она мешает использовать Элитры.",
+	
+	"power.fairy.glow.name": "Эй, слушай!",
+	"power.fairy.glow.description": "Вы можете переключать эффект свечения на себе. (Способность из Adapted Origins)",
+	
+	"power.fairy.leather.name": "Слишком тяжелая...",
+	"power.fairy.leather.description": "Вы не можете носить броню, которая сильнее кожанной.",
+	
+	"power.fairy.less_dmg.name": "Миролюбивый",
+	"power.fairy.less_dmg.description": "Вам крайне сложно ранить любое существо, вы наносите в 4 раза меньше урона.",
+	
+	"power.fairy.low_hp.name": "Слабое здоровье",
+	"power.fairy.low_hp.description": "У вас всего 3 сердца.",
+	
+	"power.fairy.magical_agility.name": "Магическая ловкость",
+	"power.fairy.magical_agility.description": "Вы никогда не получите урон от падения или неудачной посадки.",
+	
+	"power.fairy.tiny.name": "Маленький",
+	"power.fairy.tiny.description": "Вы можете пройти под полублоком без приседания."
+}
