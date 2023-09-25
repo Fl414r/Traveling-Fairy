@@ -12,8 +12,8 @@ Description: This fairy doesn't have to look for her brother (or sister), but sh
 
 Good:
 1) Air miner - You break blocks in the air at the same speed as on the ground.
-2) Dash - Yes, you cannot use fireworks. But who said you can't add a little magic? (replace fireworks, 15s cooldown)
-3) Like a Bird - Your wings allow you to fly, gradually draining your hunger bar. The ability can be turned off if it interferes with the use of Elytra. (Creative flight, can be toggled by G (#key.origins.primary_active). This power from Origins++ 
+2) Dash - Yes, you cannot use fireworks. But who said you can't add a little magic? (replace fireworks, 15s cooldown) This power from Origins++
+3) Like a Bird - Your wings allow you to fly, gradually draining your hunger bar. The ability can be turned off if it interferes with the use of Elytra. (Creative flight, can be toggled by G (#key.origins.primary_active).  
 4) Magical Agility - You will never take damage from falling or landing poorly.
 
 Neutral:
