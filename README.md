@@ -1,6 +1,11 @@
 # Traveling-Fairy
 My first origin
 
+
+Other languages:
+
+[Русский](README_ru.md)
+
 ------------------------
 Name: Traveling Fairy 
 
