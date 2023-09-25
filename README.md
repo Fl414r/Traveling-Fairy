@@ -19,7 +19,7 @@ Good:
 
 Neutral:
 1)  Hey, Listen! - You can toggle the glow effect on yourself. (Power from Adapted Origins)
-2)  Tiny - You can walk under a half block without crouching.
+2)  Tiny - You can walk under a half block without pressing Shift.
 
 Bad:
 1) Tinkaboom! - Trying to use fireworks will immediately blow you up as you are too small to use them. (Power from Adapted Origins)
