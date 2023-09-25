@@ -16,7 +16,7 @@ Description: This fairy doesn't have to look for her brother (or sister), but sh
 **Powers**
 
 Good:
-1) Elytra - Not uses chestplate slot.
+1) Elytra - Does not use a chest slot.
 2) Air miner - You break blocks in the air at the same speed as on the ground.
 3) Dash - Yes, you cannot use fireworks. But who said you can't add a little magic? (replace fireworks, 15s cooldown) This power from Origins++
 4) Like a Bird - Your wings allow you to fly, gradually draining your hunger bar. The ability can be turned off if it interferes with the use of Elytra. (Creative flight, can be toggled by G (#key.origins.primary_active)  
