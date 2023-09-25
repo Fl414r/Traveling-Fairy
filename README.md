@@ -2,7 +2,7 @@
 My first origin
 
 ------------------------
-Name: Traveling Fairy
+Name: Traveling Fairy 
 Description: This fairy doesn't have to look for her brother (or sister), but she still loves to travel.
 
 Powers
